@@ -4,9 +4,9 @@
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-mayron-2528b720a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mayronleandro/?next=%2F)
 
-![Mayron GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroMayron&show_icons=true&theme=radical)
+![Mayron GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroMayron&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroMayron&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroMayron&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Softs Skills
 
