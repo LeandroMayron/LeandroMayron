@@ -15,4 +15,4 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-Entusiasta das novas tecnologias e apaixonado como a educação pode mudar o seu mundo!
+Entusiasta das novas tecnologias e apaixonado como a educação pode mudar o mundo!
