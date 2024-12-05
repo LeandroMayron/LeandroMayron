@@ -17,4 +17,4 @@
 
 Entusiasta das novas tecnologias e apaixonado como a educação pode mudar o mundo!
 
-![Snake animation](https://github.com/LeandroMayron/LeandroMayron/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LeandroMayron/blob/output/github-contribution-grid-snake.svg)
